@@ -1,1 +1,1 @@
-# SPS_Prac_6
+# SPS_Prac_6_EA
